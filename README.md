@@ -1,2 +1,3 @@
 # Rebeccaa
-Ändring i från "button" till "knapp"
+Ändring i activity_main.xml
+
