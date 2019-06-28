@@ -1,3 +1,3 @@
 # Rebeccaa
-Ändring i activity_main.xml
+Ändring i activity_main.xml och borttagning av exampleunittest 
 
