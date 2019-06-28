@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="47dp"
         android:hint="@string/button_send"
-        android:text="Button"
+        android:text="Knapp"
         tools:layout_editor_absoluteX="256dp"
         tools:layout_editor_absoluteY="16dp" />
 
